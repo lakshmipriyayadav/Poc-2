@@ -1,0 +1,151 @@
+PUBLIC IVP4: 3.27.104.101
+Details
+
+Status and alarms
+
+Monitoring
+
+Security
+
+Networking
+
+Storage
+
+Tags
+Instance summary
+Info
+Instance ID
+i-0b1b93f87cc8cbc63
+--------------------------------
+Public IPv4 address
+3.27.104.101 | open address 
+Private IPv4 addresses
+172.31.19.253
+===============================
+IPv6 address
+–
+Instance state
+Running
+Public DNS
+
+ec2-3-27-104-101.ap-southeast-2.compute.amazonaws.com | open address 
+Hostname type
+IP name: ip-172-31-19-253.ap-southeast-2.compute.internal
+Private IP DNS name (IPv4 only)
+ip-172-31-19-253.ap-southeast-2.compute.internal
+Answer private resource DNS name
+IPv4 (A)
+Instance type
+t3.micro
+Elastic IP addresses
+–
+Auto-assigned IP address
+
+3.27.104.101 [Public IP]
+VPC ID
+vpc-0d647ee5b99ed1e9a 
+AWS Compute Optimizer finding
+Opt-in to AWS Compute Optimizer for recommendations.
+|
+Learn more 
+IAM role
+–
+Subnet ID
+subnet-04728621401cc546f 
+Auto Scaling Group name
+–
+IMDSv2
+Required
+Instance ARN
+arn:aws:ec2:ap-southeast-2:447197208109:instance/i-0b1b93f87cc8cbc63
+Managed
+false
+Operator
+–
+Instance details
+Info
+AMI ID
+
+ami-0a59248a6294cece2
+Monitoring
+disabled
+Platform details
+Linux/UNIX
+AMI name
+ubuntu/images/hvm-ssd-gp3/ubuntu-resolute-26.04-amd64-server-20260421
+Allowed image
+-
+Termination protection
+Disabled
+Stop protection
+Disabled
+Launch time
+Fri May 15 2026 20:06:29 GMT+0530 (India Standard Time) (about 1 hour)
+AMI location
+amazon/ubuntu/images/hvm-ssd-gp3/ubuntu-resolute-26.04-amd64-server-20260421
+Instance reboot migration
+Default (On)
+Instance auto-recovery
+Default
+Lifecycle
+normal
+Stop-hibernate behavior
+Disabled
+AMI Launch index
+0
+Key pair assigned at launch
+
+jenkins-key
+State transition reason
+–
+Credit specification
+unlimited
+Kernel ID
+–
+State transition message
+–
+Usage operation
+RunInstances
+RAM disk ID
+–
+Owner
+447197208109
+Enclaves Support
+Disabled
+Boot mode
+uefi-preferred
+Current instance boot mode
+uefi
+Allow tags in instance metadata
+Disabled
+Use RBN as guest OS hostname
+Disabled
+Answer RBN DNS hostname IPv4
+Enabled
+Host and placement group
+Info
+Host ID
+–
+Affinity
+–
+Placement group
+–
+Host resource group name
+–
+Tenancy
+default
+Placement group ID
+–
+Virtualization type
+hvm
+Reservation
+r-0d787764caec526ff
+Partition number
+–
+Number of vCPUs
+2
+Capacity reservation
+Info
+Capacity Reservation ID
+–
+Capacity Reservation setting
