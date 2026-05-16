@@ -27,7 +27,7 @@ def home():
     return f'''
     <html>
     <head>
-        <title>POC-3 Interactive Calculator</title>
+        <title>POC-2 Interactive Calculator</title>
 
         <style>
 
@@ -95,7 +95,7 @@ def home():
 
         <div class="container">
 
-            <h1>POC-3</h1>
+            <h1>POC-2</h1>
 
             <h2>Interactive Python Calculator </h2>
 
